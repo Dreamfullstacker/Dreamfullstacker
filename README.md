@@ -1,3 +1,5 @@
+🌐 Web Developer ✍️ Technical Writer ✈️ Internet Explorer
+
 - 👋 Hi, I’m @Dreamfullstacker
 - 👀 I’m interested in MERN , MEAN , MEVN stacker
 - 🌱 I’m currently learning solidity to deploy smart contract
