@@ -13,7 +13,10 @@
 🧑‍💻 Skills
 
 Web service
+
 ![amazon](https://img.shields.io/badge/Amazon-000000?style=for-the-badge&logo=Amazon&logoColor=#ff9900)
+
+![Amazon AWS](https://img.shields.io/badge/Amazon-000000?style=for-the-badge&logo=Amazon AWS&logoColor=#232F3E)
 
 🧩 Frameworks/Libraries
 
