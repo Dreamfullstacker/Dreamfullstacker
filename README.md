@@ -10,7 +10,10 @@
 🤝Connect with me:
 📜 Latest Blog Posts
 📊 Stats
-🧑‍💻 Languages
+🧑‍💻 Skills
+
+Web service
+![amazon](https://img.shields.io/badge/Amazon-000000?style=for-the-badge&logo=Amazon&logoColor=#ff9900)
 
 🧩 Frameworks/Libraries
 
