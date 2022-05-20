@@ -4,15 +4,14 @@
 - 👀 I’m interested in MERN , MEAN , MEVN stacker
 - 🌱 I’m currently learning solidity to deploy smart contract
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 Always I try to Provide my best for my clients happiness and through this I want to prosper in this sector. 
 
-So, I have been trying hard and soul in my every work. 
+So, I have been trying hard and soul in my every work.💪 
 
 I hope all clients are satisfied in my work.
 
-🤝Connect with me:
+📫 How to reach me ...? 🤝Connect with me with follow:
 
 ![angelist](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)
 ![freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=Freelancer&logoColor=white)
@@ -42,7 +41,7 @@ live:.cid.bd0340c874262123
 
 
 ![stackoverflow](https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
-
+https://ethereum.stackexchange.com/users/90429/dream-fullstacker
 
 📜 Latest Blog Posts
 
@@ -52,6 +51,8 @@ live:.cid.bd0340c874262123
 
 🧑‍💻 Skills
 
+Web development
+
 ![css3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-f7df1e?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -60,6 +61,8 @@ live:.cid.bd0340c874262123
 ![postcss](https://img.shields.io/badge/PostCSS-dd3a0a?style=for-the-badge&logo=PostCSS&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=PHP&logoColor=white)
+
+Mobile developement
 
 ![flutter](https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=Flutter&logoColor=white)
 
@@ -73,11 +76,11 @@ live:.cid.bd0340c874262123
 
 Blockchain
 
--Contract : Solidity, Rust + Hardhat, Truffle / Remix. (Open Zeppelin) 
+✔️Contract : Solidity, Rust + Hardhat, Truffle / Remix. (Open Zeppelin) 
 
--Token : ERC-20, ERC-721, ERC-1155, BEP-2, BEP-20, BEP-721, TRC-20 
+✔️Token : ERC-20, ERC-721, ERC-1155, BEP-2, BEP-20, BEP-721, TRC-20 
 
--Wallet Connect : MetaMask, TrustWallet,  Coinbase Wallet and more using Web3.js
+✔️Wallet Connect : MetaMask, TrustWallet,  Coinbase Wallet and more using Web3.js
 
 
 Chain&Coin
