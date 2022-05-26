@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @Dreamfullstacker
 - 👀 I’m interested in MERN , MEAN , MEVN stacker
 - 🌱 I’m currently learning solidity to deploy smart contract
+<<<<<<< HEAD
 
 At home 
 
@@ -45,6 +46,48 @@ you’ll find me dreaming of golf, playing bass guitar, and petting all the good
 ![whatsapp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 ![stackoverflow](https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
 
+=======
+- 💞️ I’m looking to collaborate on ...
+
+Always I try to Provide my best for my clients happiness and through this I want to prosper in this sector. 
+
+So, I have been trying hard and soul in my every work.💪 
+
+I hope all clients are satisfied in my work.
+
+📫 How to reach me ...? 🤝Connect with me with follow:
+
+![angelist](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)
+![freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=Freelancer&logoColor=white)
+![upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white)
+![glassdoor](https://img.shields.io/badge/Glassdoor-0caa41?style=for-the-badge&logo=Glassdoor&logoColor=white)
+
+![discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white)
+Dreamfullstacker#7585
+
+![facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=white)
+
+![twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)
+
+![gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white)
+dreamfullstacker@gmail.com
+
+![linkedin](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+http://linkedin.com/in/anton-pasinov-756327239
+
+![skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)
+live:.cid.bd0340c874262123
+
+![telegram](https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=Telegram&logoColor=white)
+
+
+![whatsapp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white)
+
+
+![stackoverflow](https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
+https://ethereum.stackexchange.com/users/90429/dream-fullstacker
+
+>>>>>>> 1f1dcb516883da90ad4d9497307b37ef2ee00c73
 📜 Latest Blog Posts
 
 
@@ -53,6 +96,11 @@ you’ll find me dreaming of golf, playing bass guitar, and petting all the good
 
 🧑‍💻 Skills
 
+<<<<<<< HEAD
+=======
+Web development
+
+>>>>>>> 1f1dcb516883da90ad4d9497307b37ef2ee00c73
 ![css3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-f7df1e?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -62,6 +110,11 @@ you’ll find me dreaming of golf, playing bass guitar, and petting all the good
 ![tailwindcss](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=PHP&logoColor=white)
 
+<<<<<<< HEAD
+=======
+Mobile developement
+
+>>>>>>> 1f1dcb516883da90ad4d9497307b37ef2ee00c73
 ![flutter](https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ![c](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white)
@@ -74,6 +127,16 @@ you’ll find me dreaming of golf, playing bass guitar, and petting all the good
 
 Blockchain
 
+<<<<<<< HEAD
+=======
+✔️Contract : Solidity, Rust + Hardhat, Truffle / Remix. (Open Zeppelin) 
+
+✔️Token : ERC-20, ERC-721, ERC-1155, BEP-2, BEP-20, BEP-721, TRC-20 
+
+✔️Wallet Connect : MetaMask, TrustWallet,  Coinbase Wallet and more using Web3.js
+
+
+>>>>>>> 1f1dcb516883da90ad4d9497307b37ef2ee00c73
 Chain&Coin
 
 ![bitcoin](https://img.shields.io/badge/Bitcoin-f7931a?style=for-the-badge&logo=Bitcoin&logoColor=white)
