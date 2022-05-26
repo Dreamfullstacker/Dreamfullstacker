@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Dreamfullstacker
 - 👀 I’m interested in MERN , MEAN , MEVN stacker
 - 🌱 I’m currently learning solidity to deploy smart contract
-<<<<<<< HEAD
+
 
 At home 
 
@@ -46,7 +46,6 @@ you’ll find me dreaming of golf, playing bass guitar, and petting all the good
 ![whatsapp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 ![stackoverflow](https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
 
-=======
 - 💞️ I’m looking to collaborate on ...
 
 Always I try to Provide my best for my clients happiness and through this I want to prosper in this sector. 
@@ -73,7 +72,7 @@ Dreamfullstacker#7585
 dreamfullstacker@gmail.com
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)
-http://linkedin.com/in/anton-pasinov-756327239
+
 
 ![skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)
 live:.cid.bd0340c874262123
@@ -87,7 +86,6 @@ live:.cid.bd0340c874262123
 ![stackoverflow](https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
 https://ethereum.stackexchange.com/users/90429/dream-fullstacker
 
->>>>>>> 1f1dcb516883da90ad4d9497307b37ef2ee00c73
 📜 Latest Blog Posts
 
 
@@ -96,11 +94,8 @@ https://ethereum.stackexchange.com/users/90429/dream-fullstacker
 
 🧑‍💻 Skills
 
-<<<<<<< HEAD
-=======
 Web development
 
->>>>>>> 1f1dcb516883da90ad4d9497307b37ef2ee00c73
 ![css3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-f7df1e?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -110,11 +105,8 @@ Web development
 ![tailwindcss](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=PHP&logoColor=white)
 
-<<<<<<< HEAD
-=======
 Mobile developement
 
->>>>>>> 1f1dcb516883da90ad4d9497307b37ef2ee00c73
 ![flutter](https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ![c](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white)
@@ -127,16 +119,12 @@ Mobile developement
 
 Blockchain
 
-<<<<<<< HEAD
-=======
 ✔️Contract : Solidity, Rust + Hardhat, Truffle / Remix. (Open Zeppelin) 
 
 ✔️Token : ERC-20, ERC-721, ERC-1155, BEP-2, BEP-20, BEP-721, TRC-20 
 
 ✔️Wallet Connect : MetaMask, TrustWallet,  Coinbase Wallet and more using Web3.js
 
-
->>>>>>> 1f1dcb516883da90ad4d9497307b37ef2ee00c73
 Chain&Coin
 
 ![bitcoin](https://img.shields.io/badge/Bitcoin-f7931a?style=for-the-badge&logo=Bitcoin&logoColor=white)
