@@ -29,23 +29,6 @@ you’ll find me dreaming of golf, playing bass guitar, and petting all the good
 
 “Transparent process. Complete overview of my project process through regular meetings. After the initial design versions I’m happy to do user testing with your customers to ensure the best possible solutions for their needs.”
 
-🤝Connect with me:
-
-![angelist](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)
-![freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=Freelancer&logoColor=white)
-![upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white)
-![glassdoor](https://img.shields.io/badge/Glassdoor-0caa41?style=for-the-badge&logo=Glassdoor&logoColor=white)
-
-![discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white)
-![facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=Facebook&logoColor=white)
-![twitter](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white)
-![gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white)
-![linkedin](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white)
-![telegram](https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=Telegram&logoColor=white)
-![whatsapp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white)
-![stackoverflow](https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
-
 - 💞️ I’m looking to collaborate on ...
 
 Always I try to Provide my best for my clients happiness and through this I want to prosper in this sector. 
