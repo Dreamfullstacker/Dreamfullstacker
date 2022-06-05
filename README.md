@@ -78,10 +78,10 @@ dreamfullstacker@gmail.com
 live:.cid.bd0340c874262123
 
 ![telegram](https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=Telegram&logoColor=white)
-
++447901140881
 
 ![whatsapp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=WhatsApp&logoColor=white)
-
++447470723109
 
 ![stackoverflow](https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
 https://ethereum.stackexchange.com/users/90429/dream-fullstacker
